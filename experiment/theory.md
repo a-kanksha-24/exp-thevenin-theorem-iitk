@@ -1,4 +1,4 @@
-###  Theory 
+
 Let us understand the superposition theorem with the help of an example. The circuit diagram is shown below consists of two voltage sources V1 and V2.
 
 <!--  ![image](https://user-images.githubusercontent.com/98012700/217304122-aa3706d3-f8a0-47af-a092-876425759e8c.png) -->
