@@ -24,5 +24,7 @@ For Superposition we will use four resistor out of which one will be load and tw
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Kajal Yadav | student | Electrical Engineering |  Rajkiya Engineering College,Banda | ykajal2002@gmail.com
-2 |Dr. Ashutosh Tiwari| Faculty | Applied Science and Humanity |  Rajkiya Engineering College,Banda| ashutosh.tiwari@gmail.com
+1 | Dr. Ashutosh Tiwari | Faculty | Applied Science and Humanity |  Rajkiya Engineering College,Banda| ashutosh.tiwari@gmail.com
+2 | Akanksha Pal | student | Information Technology |  Rajkiya Engineering College,Banda | akanksha.r.pal@gmail.com
+3 | Kajal Yadav | student | Electrical Engineering |  Rajkiya Engineering College,Banda | ykajal2002@gmail.com
+4 | Rahul Pushpakar | student | Mechanical Engineering |  Rajkiya Engineering College,Banda | rahulpushpker@gmail.com
