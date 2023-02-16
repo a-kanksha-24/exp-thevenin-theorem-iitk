@@ -1,4 +1,4 @@
-### Procedure
+
 1. Verification of Superposition Theorem<br><br>
 The superposition theorem states that the response of a linear circuit to an arbitrary number of excitations is equal to the sum of the responses of each individual excitation. To verify the superposition theorem, the following steps should be taken:<br><br>
 a. Simplify the circuit to its Thevenin equivalent.<br>
