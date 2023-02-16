@@ -1,2 +1,1 @@
-## Experiment name
-Verification of Superposition and Thevenin's Theorem
+## Verification of Superposition and Thevenin's Theorem
